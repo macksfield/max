@@ -1,7 +1,7 @@
 ---
-date: 2019-01-03 23:00:00 +0000
+date: 2019-01-03T23:00:00.000+00:00
 year: 2019
-title: Banana
+title: THIS IS A BANANA TEST
 category: Identity
 thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
 categories:
